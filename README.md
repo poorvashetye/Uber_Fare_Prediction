@@ -52,10 +52,10 @@ Execute the Python script or Jupyter Notebook to train the model and view predic
 
 ## Model Performance
 The Random Forest Regressor performed exceptionally well:
-Mean Absolute Error (MAE): 0.7
-Mean Squared Error (MSE): 0.55
-Root Mean Squared Error (RMSE): 0.74
-R² Score: 0.99
+Mean Absolute Error (MAE): 0.7 <br>
+Mean Squared Error (MSE): 0.55 <br>
+Root Mean Squared Error (RMSE): 0.74 <br>
+R² Score: 0.99 <br>
 The model explains 99% of the variance in fare predictions.
 
 ## Usage
